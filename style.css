@@ -8,12 +8,12 @@
 }
 
 body{
-backgroud-color: var(--fundo);
+background-color: var(--fundo);
 }
 
 
 footer{
-    backgroud-color:var(--preto);
+    background-color:var(--preto);
     color:var(--branco)
 
 }
