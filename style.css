@@ -5,18 +5,18 @@
   --cor-verso-cartao
   --preto:black;
   --branco:white
-
+}
 
 body{
 backgroud-color: var(--fundo);
-
+}
 
 
 footer{
     backgroud-color:var(--preto);
     color:var(--branco)
 
-  
+}
 
 
 
